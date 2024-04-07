@@ -19,4 +19,4 @@ ____________
 🔑 Pass: OilioCracker
 ____________
 
-![alt text]([http://url/to/img.png](https://i.imgur.com/YMhVUpN.png))
+![alt text]([YMhVUpN.png))
